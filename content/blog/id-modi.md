@@ -1,59 +1,71 @@
 ---
-title: 'Picture Shortcode Test'
-date: 2020-06-04T23:30:14+02:00
-Tags: [latin, medieval, picture]
-Categories: [lorem, theme]
+title: 本科总结
+date: 2024-06-19T23:30:14+02:00
+Tags: [本科, 经历]
+Categories: [日记]
 ---
 
-# Id Modi
+我在数试学习4年，主要学习数学理论知识。这篇文章中将谈一谈我在4年中的经历和感受。
+<!--more-->
 
-Id modi explicabo non accusantium accusantium. Voluptates laborum est
-exercitationem odit voluptate dicta laborum nemo. Dolorum et aliquam qui dolorem
-voluptates ducimus voluptatibus. Quia sunt molestiae id ut. Necessitatibus
-itaque sed unde sit repellendus sit. Error pariatur deserunt dignissimos saepe
-cupiditate beatae.
+# 本科总结 2020-2024
 
-{{< image frame="true" float="left" width="7em" caption="Nemo animi" src="img/thumbnails/hugo5.jpg" >}}
+## 1 绪论
 
-Illum quae laudantium quia vel facere aliquid earum. Inventore culpa
-perspiciatis et veniam et amet distinctio. Facilis expedita doloremque
-voluptates nihil et sint commodi et. Et totam iste doloribus et quisquam.
-Quaerat veritatis repellendus vel est.
+国际政治局部冲突不断。世界金融危机余震仍存。社会分化疑似加速。
 
-{{< image frame="true" float="right" width="9em" src="img/thumbnails/hugo2.jpg" >}}
+在百年未有之大变局中，中国正在谋求产业链的升级，发展新质生产力，大力推动科技科研。但是随着房地产泡沫破裂，经济下行压力增大，企业对毕业生的需求缩减，学历的贬值在意料之中。基建逐渐放缓，人口流动持续，毕业生未来工作生活地点充满不确定性。随着国家逐步靠近发达国家，服务业占比的上升是必然趋势，在产业结构变动下，毕业生的就业路径可能深刻改变。
 
-Nemo animi expedita voluptas ut. Similique dolores animi aut similique vel ullam
-aut. Numquam doloribus temporibus error cupiditate et et quia. Accusamus sunt et
-omnis. Rem iure deserunt eaque. Corrupti autem reiciendis et temporibus et sit
-ipsa.
+基础学科拔尖学生培养计划在十余年前设立，近期升为2.0版本，目的是选拔培养一批基础学科拔尖人才，为新时代自然科学和哲学社会科学发展播种火种，为把我国建设成为世界主要科学中心和思想高地奠定人才基础。
 
-Vero necessitatibus quasi id non assumenda saepe quaerat iusto. Assumenda quis
-odio est et unde. Cumque necessitatibus aut suscipit sed molestiae. At doloribus
-molestiae ut ratione.
+其中的数试最早的一批前辈，我有听闻已经进入进入学界的。我在数试学习4年，主要学习数学理论知识。这篇文章中将谈一谈我在4年中的经历和感受。
 
-Laudantium et perspiciatis error ut rem earum mollitia suscipit. Ut consectetur
-voluptatem fugiat illum. Consequuntur quo non nam vitae similique voluptate
-occaecati deleniti. Odio numquam sint expedita ratione. Natus magnam nemo enim
-enim quasi consequuntur. Consectetur voluptatibus aut perspiciatis sint
-similique.
+## 2 求学
 
-Dignissimos aut sapiente inventore. Vero alias exercitationem sint mollitia
-molestias dolorem aspernatur. Qui necessitatibus dolor ab ad a modi porro.
+4年前正是高考的时候。为了在眼花缭乱的专业目录里选择80个志愿，我制作了多维评分表，用加权平均的方式排序，最后手动进行调整。回顾看当时的排序并没有价值。最后的结果，经过手动调整，高度依赖于去年的分数线。虽然我当时对历史分数的价值有怀疑，但是潜意识中还是把分数看的很重。事后证明历史分数大多没用，长期来看分数线变动幅度不小。主要原因归咎于我对各种学校、专业鲜有研究，只能看到表面数据。就好像炒股只看股价——这在不完全竞争市场是行不通的。事实上网上的资料、讨论不少，但是自己扒的话，对于只会做高考题的我来说做的并不好。
 
-Quae qui ratione velit eaque iusto in omnis. Provident voluptatem qui ab
-temporibus porro. Velit magnam vel totam laudantium voluptatem consequatur iste
-dolores. Minima quia sapiente expedita dolorem et sit rerum.
+最后“抽签”般的选择了数试。当时我甚至不知道数试政策。在一堆电子信息计算机类的志愿中恰好被选中。回过头来讲也算幸运，它给了我关于大学的所有期待。
 
-Et odio asperiores et. Nesciunt adipisci quod distinctio perspiciatis. Enim
-dignissimos error omnis cum rerum. Architecto est cumque sed. Optio et
-perferendis et voluptatem et neque.
+大学前两年课程很多。我想国内的高校都喜欢把学生排满课。每学期3~5门专业课，加上政治，加上大一的英语。我对我自学能力的信心并不充足，因此很感谢大学里碰到的善于教学的老师们，让我仅仅是课堂听讲、完成作业，也夯实了数学的基础。A老师板书严谨而有秩序，讲解精准而有条理；最后花一节课的时间，老师介绍了一个自己证明的定理，引得全班鸣起掌声（刚开始老师说“怎没反应”，V同学带头鼓掌）；“在数学的大厦里，制作一个小板凳就很满意了”，这名言我还记得，回味无穷。B老师的讲授大开大合，用生动的语言阐释形势化的定理的内在奥秘；板书很大，一个字能占1/4个黑板，使后排的人也看的清晰；写的讲的都很慢但从不落下进度，好是神奇；时常会挨个叫人上台做题，即使一时想不出我也不担忧。C老师的教材细节丰富，能让批评国内没有好教材的人闭嘴。D老师异常严厉但对课程也是一样严厉。E老师课程安排随性的多，但是证明严谨滴水不漏；可惜考试太不手下留情常常被人诟病。F老师收放自如，定理证明如行云流水。G老师PPT内容详实而且布局合理，课堂井井有序。
 
-{{< image wide="true" caption="Vero necessitatibus" src="img/fullsize/hugo4.jpg" >}}
+在老师讲课的时候，除了听讲，我还时常在想我什么时候能跟老师讲的一样好？讲好课真的挺难的，在讨论班讲过十余次之后，仍然离自如的讲课状态还有很大的差距，经常卡壳忘记下一步该讲的内容。在逻辑上我尽力梳理动机，但是擦黑板或换屏时很纠结如何排版，使得接下来的证明依赖的理论在观众的视线之内。如果现在让我上岗当教授，必然被学生痛批的。
 
-Adipisci repellat recusandae dolorem quam dolores quae dolor porro. Soluta sint
-inventore dolores aut delectus quae. Eius est veniam vel nihil.
+所有课程结束之后，我的均分很高。但是里面藏着一点“水分”，因为大比重是由数分高代加起来20+个学分上拿的高分支撑的。这部分我在高中时期已经会了，因此过渡到大学没有额外的困难。我还记得高中的X同学——他也是数学爱好者——不知哪里弄来的蓝色封面带点绿色边的苏联高等数学教材。在忙里偷闲忽略数学作业的周末，我向他去借并且看一个下午。加上Gilbert Strang老师、3B1B的线性代数内容，把大学数学开了一个头。虽然当时我以为这就学完线代和高数的内容，事实上是远远不够的。数学分析严谨的思想、高等代数的多种视角还有待大学课堂系统性的学习。
 
-Voluptates facilis repudiandae explicabo optio quaerat quis consequuntur. Ullam
-aspernatur expedita ea fuga consequuntur sit nam alias. Nisi quia laborum et
-error tenetur accusamus aliquam. Harum tempore adipisci mollitia. Molestias
-voluptatem consequuntur ipsum. Laboriosam earum voluptas et assumenda nemo qui.
+科研做的不多。大二研究的矩阵分析时候证明了一个猜想的特例。虽然没有价值，但是那次“屡错屡战”的证明让我探索了一种试错的感觉。尤其是处在发现完整证明的兴奋中，却突然发现引用的定理是完全错误，因而整个证明轰然倒塌的感觉着实令我崩溃，但思考还需继续，只能全部推倒重头再来。
+
+毕业设计做的很普通。最后写论文的阶段，倒是通过相当长时间的打磨。论文写也不容易，要梳理过去的文献结果，富有逻辑的承接自己的研究内容，突出创新个人的创新之处，还需要精炼的摘要加上正文细节的陈述。此外，语病错误很容易犯，而似乎所有老师都是语法高手，总能精确的挑出来语句不通。
+
+H老师相当认真的指导我。毕业设计开始前我以为，作为老师会懒得管一个本科生。若是让我指导会觉得一个本科生不能帮我做出什么科研成果。而H老师愿意与我每周讨论；完成论文的时候全文检查并提出修改意见，实在感谢。有些老师，可能很忙碌，刚开始不太管本科生，不过在临近论文提交的时候还是有所关注的。也有些老师，就更加严厉。通常说的话语极重，来逼迫学生完成任务。
+
+大三的暑假通过夏令营，我最终保研到概率系。至于为什么选择概率，实话说我并不坚定，也很难说心怀什么兴趣和热爱。也许主要是因为，感觉我更加擅长概率。而分析代数应付不来，计算运筹也不精通。夏令营跟我想象的完全不同。笔试非常难，做不出来几道题。我猜想别人也好不到哪去。面试首先是英文自我介绍，这我早就准备好了。然后立刻做黑板上的两道题。第1道题做的有点卡顿，这说明我基础还不牢固。接着又多添了一道矩阵题目，我没做出来。当时我很忐忑，但是等上十余天最终是被录取了。
+
+## 3 活动：社会实践与社团
+
+趁社会实践机会，我加入了一个实践团队在福州做文化有关的调研。这个项目是队长Z同学找到的，在社会实践群里拉拢了我们一整个大队。我担任了其中一个分队长。由于组织原因，每个分队将形成一个独立报告。具体内容我分队选择了寿山石有关的文化调研。
+
+整个项目是福州市团委主持的，作为“好年华聚福州”引才活动的一部分。“好年华聚福州”规模相当大，我们参与的走访式社会实践只是一小部分；活动重心放在宣传福州，引进高水平人才，提供实习创业平台等。
+
+我们团队对接了福州市晋安区团委，并由他们为我们规划了活动主题。从这次活动中，我第一次从县级的视角去见识地方的组织性。区团委与各种城市展示厅、文化展览场所、企业的联系配合，使得有专人为我们介绍讲解。几乎每个地方都拥有一个小型展示厅，可能就是为了对付向人介绍的情况。区团委规划了活动安排，并邀请了当地的一位文化专家，为我们娓娓道来所到之处的文化背景。此文化专家着装“飘飘欲仙”，一袭白衣、穿着布鞋、扎上辫子，是福州市一位文化方面的顾问，曾经做过大规模田野文化调查形成书册，我从未见过这般人士也算开眼。关于活动，我规划过类似的行程比如旅游，知道安排活动不易，团委费了不少功夫。
+
+于是基本上我们行程食宿都安排好了。我作为分队长，主持了论文题目的选定、任务分配，然后跟着研究生学长一起采访寿山石展示厅的人，最后根据学长建议用SWOP分析框架，五人分工，形成了一个调研报告，取得了福州市调研报告的优秀奖。
+
+社会实践在学校钱院的评比里排了第二。第三应该是个自己做的农田相关小调研项目，比我们质量略次些，但他们自己组织的也不容易。但是第一是他们的指导老师手下的一个文化调研项目，我们比不过。他们既有贩卖手工制作的文创周边，又有调查问卷数据分析调研，还有第一手采访文化传承人，发表新闻于中青校园等媒体，还用学到的文化内涵在当地参加文艺演出等等活动。真乃多才多艺！在学校拿了优秀奖，一等奖基本上被祖传项目，如支教等等项目包揽了，我就略过不提。
+
+学生社团，我大二时参加了大学杂志社。当时我进去的时候，杂志社基本上快倒闭了。老人走空，新招的只有十几个人。那一年还在疫情期间，总的来说做不了什么事情。记得我在社长的领导下做了一次采访。之后我没有再留在那个社团里。社长Y同学人际交际能力很强，联系上前许多任社长，打入陕西省校媒组织，承接北师大家史大赛，但是实话说和我理念不同。社长是很好的领导者，社团的发展像初创企业一样蓬勃发展。但是为了宣传，做的全是对外的活动，对内有益的活动没有。我参加社团的目的就是为了在我的兴趣上获取一些增益。如果社团做不到这一点我就放弃了。
+
+社团一届一届的更替，我觉得很难保留实力。除非是那种大型且有实际业务的社团。比如挑战网，要承担团委的视频拍摄业务；网管协会，协助学校网络的维护和答疑。20年前大学杂志社建立的时候的相关的事迹在《倒立在生活大河的中央》文章（在微信可以搜索到）中有记载。当时初创社团印刷杂志的钱还是他们自己凑的。社团跑遍西安各种学校来售卖，成功赚到盈余支持下一次杂志的印刷。当时他们几乎每个夜晚都有关于内容、如何写作和人生的讨论。00年代还请过余秋雨、陈忠实来题字，风光无限。但是，随着人事的更迭，这些风格和热情都留在了当年。当然现在主持社团的社长也有其特色和能力，挽救的不错了——如果我当时应下继位社长估计没有她做的好。只不过那个生机四溢的时代已经无法回溯了。
+
+## 4 工作：助教与实习
+
+大四我在学院里担任了一年的助教。第一学期我担任了J老师的数学分析三助教。我帮老师出作业题：在不同教科书上摘录习题，提交给老师筛选，选的题目会留一些余量，使得剩下的题目恰好足以讲解一节课时间。批改作业，上习题课。由于习题是我出的，有时候我夹带一点“私货“，老师很随意并不限制我。于是我在习题课上就把习题背后牵扯到的进阶的数学原理大讲特讲。这带领人窥视更深刻数学，极大激起了我“好为人师”心理。虽然这么上课很爽，但其结果是，把学生们，除了一些水平比我还高的学生，都搞的比较懵。因为出题讲题还挺费时的，老师慷慨的给我一笔额外的补助金。
+
+第二学期担任K老师的数学分析二助教。因为班级人数较多，我和老师商量只批改一半作业，即使如此改一次需要3小时多。作业不是我出的，因此操作空间小了许多。最后讲了一次习题课，时间没有把握好，缺乏互动，没有让部分人跟上来。另外，还帮助老师写了期末试卷的答案，限时两天有点紧张，因为我从来做题都不快，再打字成LaTeX更是耗费尽力。如果可以的话还是选择手写吧。
+
+大三暑假时的科研训练进行一半就做不下去了。我起意去寻找实习。因为担心在学校里与社会脱节太久，会失去处理社会问题的能力，产生不切实际的幻想。另外也担心没有经受历练，无法满足社会需求，将来找不到工作。
+
+我找到中建四局的一个算法岗位，这是一个内部小团队开发产品的需求。他们正在开发一款手持扫描仪。首先扫描的数据需要通过倾斜的矫正。这在一个月的实习中我利用高等代数的知识，帮助修正了这部分算法——虽说一开始我用错了矩阵含义，混淆了欧拉角的概念。然后清洗数据，分割区域。这部分最后没做贡献——虽然我事先读了介绍小波变换的书籍，尝试应用RANSAC算法。做完毕业设计回头来看，当时阅读论文复现古董论文的代码的行为，是不太合理的，更应该多寻找已有的方案和代码实现。
+
+真正制作科技产品的过程，和同学老师探讨理论上的算法有很大区别。关键在于硬件层面、其他环节同时处在调试阶段。算法结果出了问题，也可能是硬件扫描、数据预处理的时候有误。因此需要一些全栈的功底。除了测试算法在数据集上的效果，有时我也跟着同事去实验室采集数据，观察原始数据，阅读零部件手册，这的确能发现一些没注意到但很重要的细节。
+
+## 5 出国交流

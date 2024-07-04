@@ -8,67 +8,48 @@ menu:
     weight: 5
 ---
 {{< container >}}
-    {{% resume-section title="About Me" %}}
-My career has been a series of ups and downs, starting out as a child
-prodigy, getting involved in religious sectarianism which earned me a
-life sentence, which I fortunately were able to circumvent, followed by
-prestigious academic and diplomatic roles and finally by barely surviving being
-shipwrecked.
-    {{% /resume-section %}}
-    {{< resume-section title="Experience" >}}
-        {{< resume-entry what="Swedish Ambassador to France"
-                        where="Paris"
-                        when="1634–1645" >}}
-            `<ul>`
-                `<li>`Appointed directly by Swedish regent Axel Oxelstierna.`</li>`
-                `<li>`Helped negotiate a treaty which led to the end of the Thirty
-                Years' War.`</li>`
-            `</ul>`
-        {{< /resume-entry >}}
-        {{% resume-entry what="Freelance Academic"
-                         when="1621–1631"
-                         where="Mainly working from France" %}}
+  {{< resume-section title="教育经历" >}}
+    {{% resume-entry what="西安交通大学"
+                    where="西安"
+                    when="2020年8月 -- 2024年6月" %}}
 
-* I have three major publications from my time in France.
-* The most well-received publication was *On the law of war and
-  peace*, published in Parision press in 1625.
-  {{% /resume-entry %}}
-  {{% resume-entry what="Pensionary of Rotterdam"
-  where="Town Delegation of Rotterdam"
-  when="1613-1616" %}}
+* 本科：数学与应用数学(试验班)
+* 部分课程：数学分析 高等代数 概率论 数值分析 现代信息论 数理金融
 
-Pensionary is a type of governor role in the Netherlands.
+    {{% /resume-entry %}}
 
-1. I dealt with issues of the freedom of the seas.
-2. I led a delegation to England in protest of the English actions, who had
-   seized Dutch vessels under the claim that they were trespassing on British
-   sea.
-3. While the protest was unsuccessful, the principles I argued for later became
-   international law.
-   {{% /resume-entry %}}
-   {{< /resume-section >}}
-   {{% resume-section title="Interests" %}}
-   Latin Elegies
+    {{% resume-entry what="复旦大学"
+      when="2024年8月 -- 至今"
+      where="上海" %}}
+* 硕士生：概率论与数理统计
 
-Natural Law
+    {{% /resume-entry %}}
+    {{% resume-entry what="Georgia Institute of Technology"
+        where="U.S. Atlanta"
+        when="2023年1月 -- 2023年5月" %}}
+* 前往数学系交流访问
 
-Calvinism
+    {{% /resume-entry %}}
+  {{< /resume-section >}}
 
-Just Wars
+  {{< resume-section title="科研经历" >}}
+    {{% resume-entry what="昆虫爆发模型的随机动力学行为研究"
+                        when="2023年11月 -- 2024年6月" %}}
 
-    {{% /resume-section %}}
+- 应用早期预警指标，预测系统的突变
+- 利用平均逃逸时间理论分析系统离出现象
 
-    {{< resume-section title="Languages" >}}
-        {{< resume-category title="Dutch" >}}
-        {{% resume-entry what="Native Language" %}}
+    {{% /resume-entry %}}
+  {{< /resume-section >}}
+  
+  {{< resume-section title="兴趣" >}}
+    {{% resume-entry what="阅读书籍以及视觉小说" %}}
+    {{% /resume-entry %}}
+  {{< /resume-section >}}
 
-* Hollandish accent
-  {{% /resume-entry %}}
-  {{< resume-category title="Latin" >}}
-  {{% resume-entry what="Private Lessons" when="1588-1598" %}}
-  {{% /resume-entry %}}
-  {{< resume-category title="French" >}}
-  {{% resume-entry what="French Classes" when="1621–1623" where="Ecole de Paris" %}}
-  {{% /resume-entry %}}
+  {{< resume-section title="语言能力" >}}
+    {{< resume-category title="English" >}}
+    {{% resume-entry what="日常交流" %}}
+    {{% /resume-entry %}}
   {{< /resume-section >}}
   {{< /container >}}

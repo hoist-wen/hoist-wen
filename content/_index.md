@@ -7,13 +7,10 @@ menu:
     name: "主页"
     weight: 1
 ---
+{{<image float="right" width="11em" frame="true" caption="我的一张照片，摄于贵州" src="img/IMG_20230806_154015.jpg" >}}
 
+欢迎，我是温之来，这是我的个人网页。
 
-{{<image float="right" width="11em" frame="true" caption="Portrait of me by Michiel Jansz. van Mierevelt" src="img/hugo-portrait.jpg" >}}
+我现在是一名数学专业的学生，主攻概率论方向。
 
-Hello, I'm Hugo Grotius and this is my personal page. I'm a Dutch lawyer and
-diplomat with experience from academia and government, having published a large
-number of books on international law, sometimes even being called the "father"
-of this field of study. I have experience working as a diplomat from serving as
-the Swedish Ambassador to France. For a more comprehensive list of my experience,
-see the [Resume]({{< ref "resume.md" >}}) tab.
+如果想要看到更加详细的个人经历，请看[个人简历]({{< ref "resume.md" >}}) 栏目。
