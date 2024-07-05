@@ -41,6 +41,17 @@ menu:
 
     {{% /resume-entry %}}
   {{< /resume-section >}}
+  {{< resume-section title="工作经历" >}}
+    {{% resume-entry what="福州市“好年华聚福州”研学活动"
+                        when="2022年8月" %}}
+
+- 走访福州市各文化地标，研究寿山石文化发展，采访相关人员
+- 引导队伍商议选题，分配研究任务，总领报告写作框架
+- 完成《福州打造“国石文化之都"的分析和策略》论文一篇，获福州市调研报告优秀奖
+
+    {{% /resume-entry %}}
+
+  {{< /resume-section >}}
   
   {{< resume-section title="兴趣" >}}
     {{% resume-entry what="阅读书籍以及视觉小说" %}}
