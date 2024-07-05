@@ -20,6 +20,9 @@ paginate = 4
   [params.social]
     github = "hoist-wen"
     email = "wen170732349@163.com"
+    steam = "76561198321401746"
+    zhihu = "jiao-cha-zuo-biao-de-xing-chen-42"
+    bilibili = "8360955"
     rss = "rss won't use the value you give it so you can put anything here"
 
 [taxonomies]

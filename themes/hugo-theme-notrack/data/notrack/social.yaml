@@ -305,7 +305,7 @@ patreon:
 # 039: Steam
 steam:
   weight: 39
-  prefix: https://steamcommunity.com/id/
+  prefix: https://steamcommunity.com/profiles/
   title: Steam
   icon:
     class: fab fa-steam fa-fw
